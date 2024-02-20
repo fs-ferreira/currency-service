@@ -21,3 +21,6 @@ spring:
     schemas: currency_service
     user: root
     password: Admin1!
+springdoc:
+  api-docs:
+    path: currency-service/v3/api-docs
